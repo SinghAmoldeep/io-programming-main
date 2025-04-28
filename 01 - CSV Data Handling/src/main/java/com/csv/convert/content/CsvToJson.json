@@ -1,0 +1,25 @@
+[ {
+  "id" : 1,
+  "name" : "Jerry",
+  "age" : 22,
+  "city" : "New York",
+  "email" : "jerry@example.com"
+}, {
+  "id" : 2,
+  "name" : "Shadow",
+  "age" : 21,
+  "city" : "Los Angeles",
+  "email" : "shadow@example.com"
+}, {
+  "id" : 3,
+  "name" : "Anmol",
+  "age" : 24,
+  "city" : "Chicago",
+  "email" : "anmol@example.com"
+}, {
+  "id" : 4,
+  "name" : "Rishav",
+  "age" : 25,
+  "city" : "Germany",
+  "email" : "rishav@example.com"
+} ]
